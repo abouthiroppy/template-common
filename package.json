@@ -1,0 +1,18 @@
+{
+  "name": "@my-dish/template-common",
+  "version": "0.0.1",
+  "description": "common template for dish",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "author": "abouthiroppy <git@about-hiroppy.com> (http://about-hiroppy.com)",
+  "license": "MIT",
+  "keywords": [
+    "my-dish",
+    "template"
+  ],
+  "repository": {
+    "url": "git+https://github.com/my-dish/template-common.git",
+    "type": "git"
+  }
+}
